@@ -1,4 +1,4 @@
-# Web-scraping-grabbing_images
+# Web-scraping-grabbing_images.
 Download  images randomly with Web scraping and save it in the pc
 
 -Script pick an option randomly.
